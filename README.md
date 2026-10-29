@@ -119,3 +119,7 @@ If your adapter switches headers properly, the same reading can be set up as a c
 ## Disclaimer
 
 This is an unofficial, community tool with no affiliation to Nissan or Infiniti. It only sends read-only diagnostic requests (`10C0` session, `2101` read, `0105` read). Values were verified on one vehicle and may differ on other model years, markets or TCM software versions, so sanity-check against a known reference before relying on it. For fluid level checks, follow the official service procedure and temperature range for your transmission. Use at your own risk.
+
+## License
+
+[MIT](LICENSE)
