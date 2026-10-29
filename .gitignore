@@ -1,0 +1,7 @@
+# Logged readings
+atf_log*.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
